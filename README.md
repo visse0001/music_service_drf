@@ -20,6 +20,10 @@ Install dependencies: <br/>
 
 `python manage.py createsuperuser`
 
+or
+
+`python manage.py createsuperuser --email admin@example.com --username admin`
+
 ## Access API
 
 ToDo
