@@ -16,6 +16,10 @@ Install dependencies: <br/>
 `python3 manage.py makemigrations` <br>
 `python3 manage.py migrate`
 
+## Test
+
+`python manage.py test`
+
 ## To create an admin account:
 
 `python manage.py createsuperuser`
