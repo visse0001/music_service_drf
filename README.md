@@ -28,6 +28,10 @@ or
 
 `python manage.py createsuperuser --email admin@example.com --username admin`
 
+## To run server:
+
+`python manage.py runserver`
+
 ## Access API
 
 ToDo
